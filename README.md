@@ -1,2 +1,6 @@
 # Adquisidor-II---PCB
-Schemetic circuits (analog and digital ones) and the printed circuit board of the seccond generation of an adquisition system to monitor the power generation produced for low power aeolian generators. The "Adquisidor II" is a system that comprises an eletrical power meter, anemometer, dataloger, and a battery. In this way, is possible to quantify the activity and eficiency of the wind generator deployed during a year.  The system was conceived as stand alone, making the desicions of when start the adquisition and when stop it. Additionally, is able to modify the sampling rate acording to the wind activity. All colected datas are registered into a SD card, simplifying the data colletion procedure for the farmers/technicians. A future development will include a GSM modem to perform telemetry and data coletion remotely, however the actual system will continue be used in remote areas where not cellphone network is available.
+Schematic circuits (analog and digital ones) + printed circuit board (PCB).
+
+Seccond generation of an adquisition system to monitor the power generation produced for a low power wind generator.
+
+More info in the wiki.

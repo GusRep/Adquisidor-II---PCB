@@ -1,0 +1,1 @@
+archivo adjunto el cual lo tiene que pegar en la carpeta CAM del Eagle, es para generar los Gerber.

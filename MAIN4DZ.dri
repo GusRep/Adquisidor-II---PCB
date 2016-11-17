@@ -1,0 +1,52 @@
+Drill Station Info File: C:/Documents and Settings/Gus/Escritorio/ADQUISIDOR II - MAIN4C(Z)/MAIN 4DZ/MAIN4DZ.dri
+
+ Date              : 25/11/2007 03:55:32p
+ Drills            : C:/Documents and Settings/Gus/Escritorio/main4DZ.drl
+ Device            : Excellon drill station
+
+Parameter settings:
+
+ Tolerance Drill + :  0.03 %
+ Tolerance Drill - :  0.03 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+ Layers            : Drills Holes
+
+Drill File Info:
+
+ Data Mode         : Absolute
+ Units             : 1/1000 Inch
+
+Missing Drills:
+
+ -- Requested --
+
+ Size       used
+
+ 0.0236inch    21
+ 0.0374inch     4
+ 0.0906inch     2
+ 0.0315inch     2
+ 0.0394inch     1
+
+Drills used:
+
+ Code  Size       used
+
+ T01   0.0070inch   235
+ T02   0.0240inch     8
+ T04   0.0320inch   192
+ T05   0.0360inch    10
+ T08   0.0400inch   109
+ T09   0.0440inch    33
+ T10   0.0520inch    33
+ T11   0.0710inch     2
+ T13   0.1300inch     2
+
+Total number of drills: 624
+
+!!!!!!!!! DRILLS MISSING - NO DRILL FILE HAS BEEN PRODUCED!

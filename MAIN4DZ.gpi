@@ -1,0 +1,72 @@
+Photoplotter Info File: C:/Documents and Settings/Gus/Escritorio/ADQUISIDOR II - MAIN4C(Z)/MAIN 4DZ/MAIN4DZ.gpi
+
+ Date              : 25/11/2007 03:53:46p
+ Plotfile          : C:/Documents and Settings/Gus/Escritorio/ADQUISIDOR II - MAIN4C(Z)/MAIN 4DZ/MAIN4DZ.BOT
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : yes
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0000inch              29
+ D11      draw      0.0160inch              39
+ D12      draw      0.0060inch             170
+ D13      rectangle 0.1142inch x 0.2362inch     1
+ D14      rectangle 0.1378inch x 0.3819inch     1
+ D15      rectangle 0.2402inch x 0.1220inch     1
+ D16      rectangle 0.0394inch x 0.0276inch     1
+ D17      rectangle 0.2598inch x 0.1220inch     1
+ D18      rectangle 0.1772inch x 0.1811inch     1
+ D19      rectangle 0.1693inch x 0.1850inch     1
+ D20      octagon   0.0630inch              43
+ D21      octagon   0.0520inch              96
+ D22      round     0.1000inch               6
+ D23      octagon   0.1000inch               9
+ D24      octagon   0.0600inch              34
+ D25      oval      0.0574inch x 0.1148inch     4
+ D26      oval      0.0440inch x 0.0880inch     2
+ D27      oval      0.1320inch x 0.0660inch    10
+ D28      oval      0.0660inch x 0.1320inch     8
+ D29      oval      0.1200inch x 0.0600inch    39
+ D30      oval      0.1040inch x 0.0520inch    30
+ D31      oval      0.0520inch x 0.1040inch    20
+ D32      oval      0.1720inch x 0.0860inch     1
+ D33      oval      0.0860inch x 0.1720inch     2
+ D34      round     0.0660inch              12
+ D35      round     0.1065inch               2
+ D36      oval      0.1120inch x 0.0560inch    10
+ D37      round     0.0440inch               6
+ D38      round     0.0630inch               1
+ D39      oval      0.0600inch x 0.1200inch    24
+ D40      round     0.0520inch               2
+ D41      oval      0.1560inch x 0.0780inch    33
+ D42      draw      0.0250inch            1089
+ D43      octagon   0.0230inch             235
+ D44      draw      0.0400inch              60
+ D45      draw      0.0240inch            5384
+
